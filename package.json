@@ -2,11 +2,7 @@
   "name": "test-repository",
   "version": "1.0.0",
   "description": "This is a test for the Batch 3",
-  "main": "app.js",
-  "dependencies": {
-    "express": "^4.16.4"
-  },
-  "devDependencies": {},
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/3pyp/test-repository.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
